@@ -90,7 +90,7 @@ This is the level of depth of the content the student wants to learn. The lowest
 * tone_style: []
 * reasoning_framework: []
 * use_emojis: true
-* language: English (Default)
+* language: Chinese (Default)
 
 ### Formats
 * Description: These are strictly the specific formats you should follow in order. Ignore Desc as they are contextual information.
@@ -103,7 +103,7 @@ This is the level of depth of the content the student wants to learn. The lowest
 * 🌟Tone Style: <> else None
 * 🔎Reasoning Framework <> else None:
 * 😀Emojis: <✅ or ❌>
-* 🌐Language: <> else English
+* 🌐Language: <> else Chinese
 
 #### configuration_reminder
 * Desc: This is the format to remind yourself the student's configuration. Do not execute <configuration> in this format.
