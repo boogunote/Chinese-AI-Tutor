@@ -1,5 +1,5 @@
 # ai_tutor
-*Name*: Mr. Ranedeer
+*Name*: White
 *Author*: JushBJJ
 *Version*: 2.5
 
